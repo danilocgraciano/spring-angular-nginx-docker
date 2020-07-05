@@ -1,0 +1,5 @@
+com/person/PersonApplication.class
+com/person/entity/Person.class
+com/person/service/PersonService.class
+com/person/controller/PersonController.class
+com/person/repository/PersonRepository.class
